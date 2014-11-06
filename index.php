@@ -29,7 +29,9 @@
 	
 	<div class="col-md-9">
     <div class="row">	
-    <div class="col-md-6"> Building UP!</div>
+    <div class="col-md-6">
+	<h2>This site is being construct. Come back again soon! </h2>
+	</div>
         </div>
       </div>
 	</div>
