@@ -26,11 +26,9 @@
     </div>
      
    <div class="row">	
-    <div class="col-md-6">
-    <h1> Building UP!</h1>
-     </div>
-    </div>
-     </div>
+    <div class="col-md-6"> Building UP!</div>
+        </div>
+      </div>
 	</div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
