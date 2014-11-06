@@ -25,8 +25,9 @@
       <a href="#"><img class="head-image" src="img/1.jpg" alt="GilneiDP"></a>
     </div>
 	
-	
+    <div class="col-md-12">
     <h1> Building UP!</h1>
+    </div>
      </div>
 	</div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
