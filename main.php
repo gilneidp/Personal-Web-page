@@ -21,7 +21,7 @@
 	 <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
   </head>
   <body>
-  <div class="container main-content center">
+  <div class="container main-content">
   <div class="row">
   <div class="col-md-12">
       <a href="#"><img class="head-image" src="img/1.jpg" alt="GilneiDP"></a>
