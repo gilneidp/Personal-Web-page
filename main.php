@@ -17,13 +17,14 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+	 <link rel="stylesheet" href="css/personal.css">
 	 <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
   </head>
   <body>
   <div class="container main-content center">
   <div class="row">
   <div class="col-md-12">
-      <a href="#"><img src="img/1.jpg" alt="GilneiDP"></a>
+      <a href="#"><img class="head-image" src="img/1.jpg" alt="GilneiDP"></a>
     </div>
 	
 	
