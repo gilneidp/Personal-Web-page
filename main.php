@@ -23,7 +23,7 @@
   <div class="container main-content center">
   <div class="row">
   <div class="col-md-12">
-      <a href="#"><img class="head-image" src="img/1.jpg" alt="GilneiDP"></a>
+      <a href="#"><img src="img/1.jpg" alt="GilneiDP"></a>
     </div>
 	
 	
