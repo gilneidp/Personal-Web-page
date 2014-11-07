@@ -135,3 +135,8 @@ footer {
   max-width: 50px;
   border-radius:50%;
 }
+.image-com {
+  float: center;
+  margin-right: 0px;
+  max-width: 140px;
+}
