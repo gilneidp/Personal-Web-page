@@ -23,7 +23,8 @@
   <div class="row">
  
   <div class="col-md-12">
-      <a href="#"><img class="head-image" src="img/1.jpg" alt="GilneiDP"></a>
+      <div id="navigation-menu" class="col-md-12 log-siderbar">
+    </div>
     </div>
 	</div>
 	
