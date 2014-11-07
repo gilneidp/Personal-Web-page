@@ -20,9 +20,8 @@
   <body>
   
   <div class="container main-content">
+  
   <div class="row">
- 
-  <div class="col-md-12">
       <div id="navigation-menu" class="col-md-12 log-siderbar">
     </div>
     </div>
