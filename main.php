@@ -24,12 +24,10 @@
    </div>
 	
   <div class="container main-content">
-    <div class="row">
-      <div class="col-md-12">
-       <p class="justify">
-	    <h1>     </h1>
-		<h2>     </h2>
-        </p>
+      <div class="row">
+       <div class="col-md-12">
+         <div class="col-md-12">
+	     </div>
         </div>
       </div>
      <div class="row">
