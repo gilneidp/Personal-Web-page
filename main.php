@@ -18,13 +18,13 @@
     <link rel="stylesheet" href="css/personal.css">
   </head>
   <body>
-  
-  <div class="container main-content">
 
-  <div class="row">
+   <div class="row">
       <div id="navigation-menu" class="col-md-12 log-siderbar">
     </div>
 	
+  <div class="container main-content">
+
 	<div class="col-md-12">
     <div class="row">
     <div class="col-md-12">
