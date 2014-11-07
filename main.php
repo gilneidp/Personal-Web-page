@@ -26,14 +26,15 @@
   <div class="container main-content">
       <div class="row">
        <div class="col-md-12">
-         <div class="col-md-12">
-	     </div>
+         
         </div>
       </div>
      <div class="row">
 	   <div class="col-md-8">
-	   <h2>This site is being constructed. Come back again soon! </h2>
-	   <h3>New Section</h3>
+	   <h3>New Section11111111111111111111111</h3>
+	   </div>
+	   <div class="col-md-4">
+	     <h2>NEW Section 22222222222222222</h2>
 	   </div>
 	 </div>
 	</div>
