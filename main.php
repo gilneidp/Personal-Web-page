@@ -32,7 +32,7 @@
 	    <div class="align-center">
 		 <a href="#"><img src="img/profile.jpg" alt="Gilnei De Pellegrin" class="profile-pic"></a>
 		 <p>
-		 <h3><a href="index.php">Gilnei De Pellegrin<a></h3>
+		 <h3><a href="index.php">Gilnei De Pellegrin</a></h3>
 		 </p>
 		</div>
 	   </div>
