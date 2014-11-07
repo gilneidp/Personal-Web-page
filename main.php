@@ -30,7 +30,7 @@
      <div class="row">
 	   <div class="col-md-4">
 	    <div class="align-center">
-		 <a href="#"><img class="img-circle" class="profile-pic" src="img/profile.jpg" alt="Gilnei De Pellegrin"></a>
+		 <a href="#"><img src="img/profile.jpg" alt="Gilnei De Pellegrin" class="profile-pic"></a>
 		</div>
 	   </div>
 	   <div class="col-md-8">
