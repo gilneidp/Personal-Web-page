@@ -25,13 +25,15 @@
 	
   <div class="container main-content">
       <div class="col-md-12">
-         <a href="#"><img class="head-image" src="img/pad1.jpg" alt="hd"></a>
+         <a href="#"><img class="profile-pic" src="img/profile.jpg" alt="hd"></a>
           </div>
      <div class="row">
-	   <div class="col-md-8">
-	   <h3>New Section11111111111111111111111</h3>
+	   <div class="col-md-4">
+	    <div class="align-center">
+		 <a href="#"><img class="head-image" src="img/pad1.jpg" alt="hd"></a>
+		</div>
 	   </div>
-	   <div class="col-md-6">
+	   <div class="col-md-8">
 	     <h2>NEW Section 22222222222222222</h2>
 	   </div>
 	 </div>
