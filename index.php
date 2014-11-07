@@ -16,6 +16,11 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="css/personal.css">
+	<script>
+  $(function() {
+    $( "#dialog" ).dialog();
+  });
+  </script>
   </head>
   <body>
   <div id="dialog" title="Basic dialog">
@@ -38,11 +43,7 @@
         </div>
       </div>
 	</div>
-	<script>
-  $(function() {
-    $( "#dialog" ).dialog();
-  });
-  </script>
+	
 <body>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
