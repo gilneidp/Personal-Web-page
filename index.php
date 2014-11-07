@@ -21,9 +21,7 @@
   
   <div class="container main-content">
   <div class="row">
-  <?php
-    header("Location: language.html");
-  ?>
+ 
   <div class="col-md-12">
       <a href="#"><img class="head-image" src="img/1.jpg" alt="GilneiDP"></a>
     </div>
@@ -37,6 +35,18 @@
         </div>
       </div>
 	</div>
+	<script>
+  $(function() {
+    $( "#dialog" ).dialog();
+  });
+  </script>
+</head>
+<body>
+
+<div id="dialog" title="Basic dialog">
+  <p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
+</div>
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
