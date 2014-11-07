@@ -75,8 +75,8 @@ footer {
 }
 
 .section-header {
-  color: #ffffff;
-  background-color: #0f395e;
+  color: #0f395e;
+  background-color: #ffffff;
   padding: 5px 5px 5px 5px;
 }
 
@@ -121,8 +121,9 @@ footer {
 }
 
 .widget {
-  padding-left: 0px;
+  background-color: #FFFFFF;
 }
+
 .head-image {
   max-width: 100%;
   min-width: 300px;
@@ -135,7 +136,6 @@ footer {
   border-radius:50%;
 }
 .image-com {
-  background-color: #FFFFFF;
   float: center;
   margin-right: 0px;
   max-width: 140px;
