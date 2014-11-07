@@ -24,13 +24,18 @@
    </div>
 	
   <div class="container main-content">
-  <div class="row">
-  <div class="col-md-12">
-  <p class="justify">
-	<h2>This site is being constructed. Come back again soon! </h2>
-   </p>
+    <div class="row">
+      <div class="col-md-12">
+       <p class="justify">
+	    <h2>This site is being constructed. Come back again soon! </h2>
+        </p>
         </div>
       </div>
+     <div class="row">
+	   <div class="col-md-8">
+	   <h3>New Section</h3>
+	   </div>
+	 </div>
 	</div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
