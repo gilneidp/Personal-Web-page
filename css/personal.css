@@ -100,9 +100,9 @@ footer {
 
 
 .profile-pic {
-  float: left;
-  margin-right: 5px;
-  max-width: 120px;
+  float: center;
+  margin-right: 0px;
+  max-width: 160px;
 }
 
 .paper-title {
