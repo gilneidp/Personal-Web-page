@@ -40,7 +40,7 @@
 		</div>
 	   </div>
 	   <div class="col-md-8">
-	   <p class="bg-success">This Website is being constructed, come back soon!</p>
+	   <p class="bg-primary" h1>This Website is being constructed, come back soon!</h1></p>
 	   </div>
 	 </div>
 	</div>
