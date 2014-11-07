@@ -26,8 +26,7 @@
       <div id="navigation-menu" class="col-md-12 log-siderbar">
     </div>
     </div>
-	</div>
-	
+
 	<div class="col-md-9">
     <div class="row">
     <div class="col-md-12">
