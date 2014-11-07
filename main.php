@@ -31,7 +31,7 @@
 	   <div class="col-md-8">
 	   <h3>New Section11111111111111111111111</h3>
 	   </div>
-	   <div class="col-md-4">
+	   <div class="col-md-6">
 	     <h2>NEW Section 22222222222222222</h2>
 	   </div>
 	 </div>
