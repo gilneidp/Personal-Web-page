@@ -40,7 +40,8 @@
 		</div>
 	   </div>
 	   <div class="col-md-8">
-	   <p class="bg-primary" h1>This Website is being constructed, come back soon!</h1></p>
+	   <a href="#"><img class="head-image" src="img/pad1.jpg" alt="hd"></a>
+	   <p class="bg-primary">Education and Experience</p>
 	   </div>
 	 </div>
 	</div>
