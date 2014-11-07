@@ -34,6 +34,9 @@
 		 <p>
 		 <h3><a href="index.php">Gilnei De Pellegrin</a></h3>
 		 </p>
+		 <a href="#"><img src="img/facebook.png" alt="Myface" class="image-icon"></a>
+		 <a href="#"><img src="img/ldin.png" alt="MyLinkdin" class="image-icon"></a>
+		 <a href="#"><img src="img/gmail.png" alt="Myemail" class="image-icon"></a>
 		</div>
 	   </div>
 	   <div class="col-md-8">
