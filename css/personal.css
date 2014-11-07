@@ -135,11 +135,11 @@ footer {
   border-radius:50%;
 }
 .edu-background {
- color: #0f395e;
  background-color: #ffffff;
 }
 .image-com {
   float: center;
   margin-right: 0px;
   max-width: 140px;
+  padding: 10px 10px 10px 10px;
 }
