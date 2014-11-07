@@ -24,7 +24,6 @@
   <div class="row">
       <div id="navigation-menu" class="col-md-12 log-siderbar">
     </div>
-    </div>
 	
 	<div class="col-md-12">
     <div class="row">
@@ -34,7 +33,7 @@
         </div>
       </div>
 	</div>
-
+   </div> 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
