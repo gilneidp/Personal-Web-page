@@ -135,8 +135,9 @@ footer {
   border-radius:50%;
 }
 .image-com {
+  background-color: #FFFFFF;
   float: center;
   margin-right: 0px;
   max-width: 140px;
-    padding: 14px 14px 14px 14px;
+  padding: 14px 14px 14px 14px;
 }
