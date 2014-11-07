@@ -43,8 +43,8 @@
 	   <a href="#"><img class="head-image" src="img/pad1.jpg" alt="hd"></a>
 	   <p class="bg-primary" class="list-group">Education and Experience</p>
 	    </div>
-	    <div class="col-md-8">
-	    <a href="fw.uri.br"><img src="img/uri.jpg" alt="MySchool" class="image-com" class="blog-siderbar"></a>
+	    <div class="col-md-8 widget">
+	    <a href="fw.uri.br"><img src="img/uri.jpg" alt="MySchool" class="image-com" ></a>
 		<a href="www.ubnt.com"><img src="img/ubnt.png" alt="Myknown" class="image-com"></a>
 		<a href="www.atuanet.com.br"><img src="img/atua.jpg" alt="Myjob" class="image-com"></a>
 	    <a href="#"><img src="img/ksu.jpg" alt="Mycolege" class="image-com"></a>
