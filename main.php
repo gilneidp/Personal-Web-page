@@ -40,7 +40,7 @@
 		</div>
 	   </div>
 	   <div class="col-md-8">
-	     <h2>NEW Section 22222222222222222</h2>
+	     <h2>This Website is being constructed, come back soon!</h2>
 	   </div>
 	 </div>
 	</div>
