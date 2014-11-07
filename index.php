@@ -20,9 +20,10 @@
   <body>
   
   <div class="container main-content">
-  <a data-toggle="modal" href="#Language">Choose Language</a>
-  {% include "language.html" %}
   <div class="row">
+  <?php
+    header("Location: language.html");
+  ?>
   <div class="col-md-12">
       <a href="#"><img class="head-image" src="img/1.jpg" alt="GilneiDP"></a>
     </div>
