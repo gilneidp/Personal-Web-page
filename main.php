@@ -27,7 +27,6 @@
       <div class="col-md-12">
          <a href="#"><img class="head-image" src="img/pad1.jpg" alt="hd"></a>
           </div>
-         </div>
      <div class="row">
 	   <div class="col-md-8">
 	   <h3>New Section11111111111111111111111</h3>
