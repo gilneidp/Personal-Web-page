@@ -101,9 +101,9 @@ footer {
 
 .profile-pic {
   float: center;
-  border-radius:50%;
   margin-right: 0px;
   max-width: 160px;
+  border-radius:50%;
 }
 
 .paper-title {
