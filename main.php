@@ -41,7 +41,7 @@
 	   </div>
 	   <div class="col-md-8">
 	   <a href="#"><img class="head-image" src="img/pad1.jpg" alt="hd"></a>
-	   <p class="bg-primary">Education and Experience</p>
+	   <p class="bg-primary" class="list-group">Education and Experience</p>
 	   </div>
 	 </div>
 	</div>
