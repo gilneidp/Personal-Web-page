@@ -143,3 +143,16 @@ footer {
   max-width: 140px;
   padding: 10px 10px 10px 10px;
 }
+.form-padding{
+  padding-top: 20px;
+}
+#wrapper .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#wrapper:hover .text {
+visibility:visible;
+}
