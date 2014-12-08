@@ -45,7 +45,7 @@
 	   <p class="bg-primary list-group">Education and Experience</p>
 	    <div class="edu-background" id="wrapper">
 	    <a href="http://fw.uri.br"><img src="img/uri.jpg" alt="MySchool" class="image-com"></a>
-		<p class="text">This is my Experience</p>
+		
 		<a href="https://ubnt.com"><img src="img/ubnt.png" alt="Myknown" class="image-com"></a>
 		<a href="http://atuanet.com.br"><img src="img/atua.jpg" alt="Myjob" class="image-com"></a>
 	    <a href="http://ksu.edu"><img src="img/ksu.jpg" alt="Mycolege" class="image-com"></a>
